@@ -1,4 +1,4 @@
-start page by pedro-pablo added my links, code all pedro-pablo. It can be found here
+start page by pedro-pablo added my links, code all pedro-pablo. It can be found https://github.com/pedro-pablo/minimal-startpage-template
 
 <p align="center">
   <a href="https://github.com/pedro-pablo/minimal-startpage-template/blob/master/LICENSE" alt="License">
