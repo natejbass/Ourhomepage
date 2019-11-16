@@ -6,14 +6,14 @@ const clockInterval = 100;
 /**
  * Search engine query url
  */
-const searchEngineUrl = 'https://duckduckgo.com/?q=';
+const searchEngineUrl = 'https://google.com';
 
 const tabKeyCode = 9;
 const enterKeyCode = 13;
 const escapeKeyCode = 27;
 const searchBarElement = document.getElementById('search-bar');
 const clockElement = document.getElementById('clock');
-const formElement = document.getElementById('search-form');
+
 
 /**
  * Return a string containing the formatted current date and time.
