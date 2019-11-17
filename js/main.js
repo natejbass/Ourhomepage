@@ -13,6 +13,7 @@ const enterKeyCode = 13;
 const escapeKeyCode = 27;
 const searchBarElement = document.getElementById('search-bar');
 const clockElement = document.getElementById('clock');
+const formElement = document.getElementById('search-form');
 
 
 /**
